@@ -24,3 +24,12 @@ This project is a simple TODO app used to practice:
 4. Save the file after making changes.
 
 This project is for learning Git and GitHub workflows rather than building a full application.
+
+## Todo List Structure
+
+The project uses a simple text-based todo list stored in `todo.txt`.
+
+Each task follows this format:
+
+- `[ ]` Incomplete task
+- `[x]` Completed task
